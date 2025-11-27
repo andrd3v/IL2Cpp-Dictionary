@@ -1,4 +1,4 @@
-# IL2Cpp-Dictionary
+# IL2Cpp-Dictionary external
 IL2CPP Dictionary and monoArray
 
 # Usage 
