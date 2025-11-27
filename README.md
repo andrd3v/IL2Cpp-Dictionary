@@ -15,4 +15,4 @@ auto values = dict.get_Values();
 
 # Credits
 - [andrd3v](https://github.com/andrd3v)
-- [Rednick16]([https://github.com/andrd3v](https://github.com/Rednick16/IL2Cpp-Dictionary))
+- [Rednick16](https://github.com/Rednick16/IL2Cpp-Dictionary)
